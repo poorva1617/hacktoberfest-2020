@@ -457,6 +457,14 @@ let contributers=[
         "github":"https://github.com/PrayagRajSingh",
         "linkedin":"https://www.linkedin.com/in/prayag-raj-singh-pitawat",
         "instagram":"https://www.instagram.com/prayag_raj_"
+    },
+    {
+	"name":"Poorva Vinod Naik",
+        "college":"St. Joseph Engineering College, Mangalore",
+        "image":"images/Poorva_Naik.jpeg",
+        "github":"https://github.com/poorva1617",
+        "linkedin":"https://www.linkedin.com/in/poorva-naik-689493180/",
+        "instagram":"https://www.instagram.com/poorva_naik/"
     }
  ];
 
